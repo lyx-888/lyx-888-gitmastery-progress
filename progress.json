@@ -1,0 +1,54 @@
+[
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768574315.481621,
+    "completed_at": 1768574320.153993,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768574400.299908,
+    "completed_at": 1768574407.426612,
+    "comments": [
+      "There are no new grocery list items added to the shopping list."
+    ],
+    "status": "Incomplete"
+  },
+  {
+    "exercise_name": "grocery-shopping",
+    "started_at": 1768574479.904766,
+    "completed_at": 1768574482.304311,
+    "comments": [
+      "Great work! You have successfully used `git add` and `git commit` to modify the shopping list! Keep it up!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "log-and-order",
+    "started_at": 1768575575.817333,
+    "completed_at": 1768575578.218273,
+    "comments": [],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "stage-fright",
+    "started_at": 1768573666.21249,
+    "completed_at": 1768573668.243791,
+    "comments": [
+      "Great work! You have successfully checked in all the actors!"
+    ],
+    "status": "Completed"
+  },
+  {
+    "exercise_name": "staging-intervention",
+    "started_at": 1768573950.158458,
+    "completed_at": 1768573952.370944,
+    "comments": [
+      "Great work! You have successfully fixed the attendance system!"
+    ],
+    "status": "Completed"
+  }
+]
